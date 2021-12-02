@@ -1,5 +1,10 @@
-### 🪴  Hello〜 It is me you're looking for... 
+### 🪴  Hello〜 *It is me* you're looking for... 
 
+###### I'm Angie, an aspiring front-end developer with full-stack capability equipped with graphic design and illustrations skills.
+
+⚡ Currently on my way to completing Coder Academy Bootcamp by February 2022. 
+
+📫 Let's connect! →  [LinkedIn](https://www.linkedin.com/in/angiehentri/)
 
 <!--
 **a-sh-dev/a-sh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
