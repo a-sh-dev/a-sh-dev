@@ -1,6 +1,6 @@
 ### 🪴  Hello〜 *It is me* you're looking for... 
 
-**I'm Angie, an aspiring front-end developer with full-stack capability equipped with graphic design and illustrations skills.**
+☁️ **I'm Angie, an aspiring full-stack capable front-end developer with graphic design and illustrations skills.**
 
 ⚡ Currently on my way to completing Coder Academy Bootcamp by February 2022. 
 
