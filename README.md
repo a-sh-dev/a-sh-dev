@@ -1,6 +1,6 @@
 ## 🪴 Hello〜 *It is me* you're looking for... 
 
-☁️&nbsp;  **I'm Angie, an aspiring full-stack capable front-end developer who speaks visual design language.**
+☁️&nbsp;  **I'm Angie, an aspiring full-stack capable front-end developer who understands visual design language.**
 
 ⚡&nbsp;  Currently on my way to completing Coder Academy Bootcamp by February 2022. 
 
@@ -9,9 +9,6 @@
 
 
 <!--
-**a-sh-dev/a-sh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
