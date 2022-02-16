@@ -1,10 +1,10 @@
-## 🪴 Hello〜 *It is me* you're looking for... 
+## 🪴 Hello〜 *It is me* you're looking for... 🎤🎵
 
-☁️&nbsp;  **I'm Angie, an aspiring full-stack capable front-end developer who understands visual design language.**
+☁️&nbsp;  **I'm Angie, an experienced graphic designer who fell in love with coding and is pursuing a front-end 	development career. **
 
-⚡&nbsp;  Currently on my way to completing Coder Academy Bootcamp by February 2022. 
+##### 🏠 &nbsp; → [a-sh.cc](https://www.a-sh.cc)
 
-###### 📫&nbsp;  Let's connect! →  [LinkedIn](https://www.linkedin.com/in/angiehentri/)
+##### 📫&nbsp;  Let's connect! →  [LinkedIn](https://www.linkedin.com/in/angiehentri/)
 
 
 
