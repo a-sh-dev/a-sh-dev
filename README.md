@@ -1,10 +1,10 @@
 ## 🪴 Hello〜 *It is me* you're looking for... 🎤🎵
 
-☁️&nbsp;  **I'm Angie, an experienced graphic designer who fell in love with coding and is pursuing a front-end 	development career. **
+☁️&nbsp;  **I'm Angie, an experienced graphic designer who fell in love with coding and is pursuing a front-end 	development career.**
 
-##### 🏠 &nbsp; → [a-sh.cc](https://www.a-sh.cc)
+#### 🏠 &nbsp; Visit → [a-sh.cc](https://www.a-sh.cc)
 
-##### 📫&nbsp;  Let's connect! →  [LinkedIn](https://www.linkedin.com/in/angiehentri/)
+#### 📫&nbsp;  Let's connect! →  [LinkedIn](https://www.linkedin.com/in/angiehentri/)
 
 
 
