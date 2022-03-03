@@ -11,6 +11,11 @@
   - *"To Do List"*  web app with `React.js` & `TypeScript`
   - *"Job Seeking Tracker"* web app with `MERN` stack
 
+
+#### Reminder of the day:
+> *Even simple questions are powerful. Asking ‘Why?’ provokes reflection. Asking ‘Why not?’ drives innovation.*
+<br/><sub>–Nathan Young</sub>
+
 ---
 #### Get in touch:
 
