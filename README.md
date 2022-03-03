@@ -5,11 +5,11 @@
 ---
 #### Current exploration:
 
-- 💡&nbsp; Undertaking [*"CS50: Introduction to Computer Science"*](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) with Harvard to deepen understanding the 'intellectual enterprises of computer science and the art of programming',
-- 🔭&nbsp; Exploring `TypeScript` & `GraphQL`,
+- 💡&nbsp; Undertaking Harvard's [*"CS50: Introduction to Computer Science"*](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) to deepen understanding of computer science's intellectual enterprises and the art of programming. I'm curious about knowing and understanding how things work in computer science.
+- 🔭&nbsp; Exploring `TypeScript` & `GraphQL`.
 - 🌱&nbsp; New projects in the planning:
-  - *"To Do List"*, a simple web app to practice `TypeScript` with `React.js`,
-  - *"Job Seeking Tracker"* web app with `MERN` stack.
+  - *"To-Do List"*, a simple web app to practice `TypeScript` with `React.js`.
+  - *"Job Seeking Tracker"* web app using the `MERN` stack.
 
 
 #### Reminder of the day:
