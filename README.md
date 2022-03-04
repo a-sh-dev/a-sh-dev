@@ -21,6 +21,6 @@
 ---
 #### Let's get in touch:
 
-##### 🏠&nbsp; Please visit → [a-sh.cc](https://www.a-sh.cc)
+🏠&nbsp; **Please visit** → [a-sh.cc](https://www.a-sh.cc)
 
-##### 📫&nbsp;  I'd love to connect! →  [LinkedIn](https://www.linkedin.com/in/angiehentri/)
+📫&nbsp;  **I'd love to connect!** →  [LinkedIn](https://www.linkedin.com/in/angiehentri/)
