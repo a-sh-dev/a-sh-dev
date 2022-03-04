@@ -3,7 +3,7 @@
 ☁️&nbsp;  **I'm Angie, an experienced graphic designer who fell in love with coding. Recently graduated from Coder Academy Fullstack Bootcamp in 2022 and is pursuing a front-end development career.**
 
 ---
-#### Current exploration:
+#### What I've been up to:
 
 - 💡&nbsp; Undertaking Harvard's [*"CS50: Introduction to Computer Science"*](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) to deepen understanding of computer science's intellectual enterprises and the art of programming. I'm curious about how computer science works to ground my practical programming.
 - 🔭&nbsp; Exploring `TypeScript` & `GraphQL`.
