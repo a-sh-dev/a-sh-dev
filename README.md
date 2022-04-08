@@ -24,3 +24,5 @@
 🏠&nbsp; **Please visit** → [a-sh.cc](https://www.a-sh.cc)
 
 📫&nbsp;  **I'd love to connect!** →  [LinkedIn](https://www.linkedin.com/in/angiehentri/)
+
+💬&nbsp; **Occasional writings on my journey** → [Hashnode](https://a-sh.hashnode.dev)
