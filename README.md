@@ -8,17 +8,18 @@
 #### What I've been up to:
 
 - 💡&nbsp; Undertaking Harvard's [*"CS50: Introduction to Computer Science"*](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) to deepen understanding of computer science's intellectual enterprises and the art of programming. I'm curious about how computer science works to ground my practical programming.
-- 🔭&nbsp; Exploring `TypeScript`, `React-TypeScript` & `GraphQL`.
+- 🌥&nbsp; Undertaking `AWS` Developer certification through group training.
+- 🔭&nbsp; Exploring `TypeScript`, `React-TypeScript`, `GraphQL` & unit testings with `React-Testing-Library`.
 - 👀&nbsp; Keen on learning `Python`.
 - 🌱&nbsp; New projects in the planning:
   - *"To-Do List"*, a simple web app to practice `TypeScript` with `React.js`.
   - *"Job Seeking Tracker"* web app using the `MERN` stack.
-  - Instagram clone.
+  - Instagram clone (with `TypeScript` and `TDD` 🤞🏼).
 
 
 #### Reminder of the day:
-> *Design is not just what it looks like and feels like. Design is how it works.*
-<br/><sub>–Steve Jobs</sub>
+> *"Strive for Progress, Not Perfection."*
+<br/><sub>–Dave Gray (@yesdavidgray)</sub>
 
 ---
 #### Let's get in touch:
