@@ -2,8 +2,6 @@
 
 ☁️&nbsp;  **I'm Angie, a career changer with 10+ years of experience in the Graphic Design industry. Recently graduated from Coder Academy Fullstack Bootcamp in 2022. I absolutely fell in love with programming and aspire to pursue this career moving ahead.**
 
-🤩&nbsp; I'm very grateful to be part of the [*Seer*](https://seermedical.com) family and start my professional programming journey as an Associate Software Engineer. I hope to continue learning beyond web development and contribute to making a positive impact in the tech world.
-
 ---
 #### What I've been up to:
 
@@ -14,7 +12,6 @@
 - 🌱&nbsp; New projects in the planning:
   - *"To-Do List"*, a simple web app to practice `TypeScript` with `React.js`.
   - *"Job Seeking Tracker"* web app using the `MERN` stack.
-  - Instagram clone (with `TypeScript` and `TDD` 🤞🏼).
 
 
 #### Reminder of the day:
