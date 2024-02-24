@@ -1,18 +1,13 @@
 ## 🪴 Hello〜&nbsp;&nbsp; <s>Is it</s> *It is me* you're looking for... &nbsp;🎵
 
-☁️&nbsp;  **I'm Angie, a career changer with 10+ years of experience in the Graphic Design industry. Recently graduated from Coder Academy Fullstack Bootcamp in 2022. I absolutely fell in love with programming and aspire to pursue this career moving ahead.**
+☁️&nbsp;  **I'm Angie. Fueled by my 10+ years of experience in Graphic Design, I embarked on a transformative journey with Coder Academy's full-stack boot camp. What began as a strategic skillset expansion ignited a deep passion for programming, leading me to pursue a fulfilling career change.**
 
 ---
 #### What I've been up to:
 
 - 💡&nbsp; Undertaking Harvard's [*"CS50: Introduction to Computer Science"*](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) to deepen understanding of computer science's intellectual enterprises and the art of programming. I'm curious about how computer science works to ground my practical programming.
-- 🌥&nbsp; Undertaking `AWS` Developer certification through group training.
-- 🔭&nbsp; Exploring `TypeScript`, `React-TypeScript`, `GraphQL` & unit testings with `React-Testing-Library`.
-- 👀&nbsp; Keen on learning `Python`.
-- 🌱&nbsp; New projects in the planning:
-  - *"To-Do List"*, a simple web app to practice `TypeScript` with `React.js`.
-  - *"Job Seeking Tracker"* web app using the `MERN` stack.
-
+- 🌥&nbsp; Undertaking `AWS` Developer certification.
+- 🔭&nbsp; Exploring `React Native` & `Python`.
 
 #### Reminder of the day:
 > *"Strive for Progress, Not Perfection."*
@@ -23,6 +18,6 @@
 
 🏠&nbsp; **Please visit** → [a-sh.cc](https://www.a-sh.cc)
 
-📫&nbsp;  **I'd love to connect!** →  [LinkedIn](https://www.linkedin.com/in/angiehentri/)
+📫&nbsp;  **Let's connect! (Please include a brief note about yourself)** →  [LinkedIn](https://www.linkedin.com/in/angiehentri/)
 
 💬&nbsp; **Occasional writings on my journey** → [Hashnode](https://a-sh.hashnode.dev)
