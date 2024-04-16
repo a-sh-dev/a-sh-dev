@@ -1,6 +1,6 @@
-## 🪴 Hello〜&nbsp;&nbsp; <s>Is it</s> *It is me* you're looking for... &nbsp;🎵
+# 🪴 Hello, I'm Angie〜&nbsp;&nbsp;<br/> 🌝 <s>Is it</s> *It is me* you're looking for... &nbsp;🎵
 
-☁️&nbsp;  **I'm Angie. Fueled by my 10+ years of experience in Graphic Design, I embarked on a transformative journey with Coder Academy's full-stack boot camp. What began as a strategic skillset expansion ignited a deep passion for programming, leading me to pursue a fulfilling career change.**
+☁️&nbsp;  **Fueled by my 10+ years of experience in Graphic Design, I embarked on a transformative journey with Coder Academy's full-stack coding boot camp. What began as a strategic skill set expansion ignited a deep passion for programming, leading me to pursue a fulfilling career change.**
 
 ---
 #### What I've been up to:
