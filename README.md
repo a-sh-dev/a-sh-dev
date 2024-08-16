@@ -12,7 +12,7 @@
 
 #### Reminder of the day:
 
-> _"Strive for Progress, Not Perfection."_ > <br/><sub>–Dave Gray (@yesdavidgray)</sub>
+> _"Strive for Progress, Not Perfection."_ <br/><sub>–Dave Gray (@yesdavidgray)</sub>
 
 ---
 
