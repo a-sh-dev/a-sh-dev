@@ -8,7 +8,8 @@
 
 - 💡&nbsp; Undertaking Harvard's [_"CS50: Introduction to Computer Science"_](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) to deepen understanding of computer science's intellectual enterprises and the art of programming. I'm curious about how computer science works to ground my practical programming.
 - 🌥&nbsp; Undertaking `AWS` Developer certification.
-- 🔭&nbsp; Exploring `React Native`, `Flutter`, `C#`, `Python` & `Go`.
+- 🔭&nbsp; Exploring `React Native`, `C#`, `Python`, `Go` & `Swift`
+`.
 
 #### Reminder of the day:
 
